@@ -7,8 +7,11 @@ This project is a simple yet powerful Todo List application built using React.js
 ## Features
 
   **Task Management** : Easily add, edit, and remove tasks to stay organized and productive.
+  
   **Local Storage**: Your tasks are automatically saved to local storage, ensuring that your task list is available even after you close the browser.
+  
   **Responsive UI**: The user interface is designed to work seamlessly across different screen sizes and devices.
+  
 
 ### Deployment
 [Todo-List](https://sagar1290.github.io/todo-list/)
